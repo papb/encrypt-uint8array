@@ -1,6 +1,6 @@
 {
 	"name": "encrypt-uint8array",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Encrypt and decrypt an `Uint8Array` using another `Uint8Array` as password",
 	"license": "MIT",
 	"repository": "papb/encrypt-uint8array",
