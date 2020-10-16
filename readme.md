@@ -6,7 +6,7 @@
 ## Highlights
 
 * Simple to use, hard to misuse
-* Does not reinvent the wheel (based on themis)
+* Does not reinvent the wheel (based on [Themis](https://docs.cossacklabs.com/themis/))
 * Written in TypeScript (you get autocomplete suggestions in your IDE!)
 
 
